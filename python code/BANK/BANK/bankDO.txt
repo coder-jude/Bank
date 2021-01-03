@@ -1,0 +1,24 @@
+1.Choose whether to login or create an account
+-if login:
+	-Name
+	-pin
+-if create account:
+	-Name
+	-Pin
+	-email
+	-password
+	-Phone Number
+	-Country
+
+2.Deposit or withdraw Money;
+-if Deposit:
+	-pin
+	-email
+	-Deposit amount
+-if withdraw:
+	-pin
+	email
+	-withdraw amount
+    *charge withdrawal fee*	
+
+*check during account creation if users information exists
